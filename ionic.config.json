@@ -1,0 +1,7 @@
+{
+  "name": "cs-radio-small",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
